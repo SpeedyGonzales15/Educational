@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="./css/style.css">
+   <title>Document</title>
+</head>
+<body>
+   <header class="header">
+      <div class="wrapper">
+         <div class="header_wrapper">
+            <div class="header_logo">
+               <a class="header_logo_link" href="/">
+                  <img src="./img/svg/Logo.svg" alt="Logo">
+               </a>
+            </div>
+
+            <nav class="header_nav">
+               <ul class="header_list">
+                  <li class="header_item">
+                     <a href="#!" class="header_link">ABOUT</a>
+                  </li>
+                  <li class="header_item">
+                     <a href="#!" class="header_link">GALLERY</a>
+                  </li>
+                  <li class="header_item">
+                     <a href="#!" class="header_link">PRICING</a>
+                  </li>
+                  <li class="header_item">
+                     <a href="#!" class="header_link">FAQ</a>
+                  </li>
+                  <li class="header_item">
+                     <a href="#!" class="header_link">BENEFITS</a>
+                  </li>
+               </ul>
+            </nav>
+            <div class="header_btns">
+               <button class="signin_btn">SIGN IN</button>
+               <button class="signup_btn">SIGN UP</button>
+            </div>
+         </div>
+      </div>
+   </header>
+
+   <main class="main">
+      <div class="wrapper">
+         <div class="intro_container">
+            <div class="intro">
+               <h1 class="intro_title">Many reasons to get up and start to get back in the business</h1>
+               <p class="title_description">The harder you work for something, the greater you’ll feel when you achieve it.</p>
+            </div>    
+            <div class="frame">
+               <div class="img"></div>
+               <div class="glitch"></div>
+            </div>     
+         </div>
+               
+         <div class="intro_btns">
+            <button class="learn_more">LEARN MORE</button>
+            <button class="demo">DEMO</button>
+         </div>
+         <div class="preview">
+            <div class="intro_video">
+               <a href="#!" class="video_link">
+                  <img src="./img/Play.png" alt="Preview" class="preview_video">
+               </a>
+            </div>
+            <div class="video_description">
+               <p class="preview_description">The harder you work for something, the greater you’ll feel when you achieve it.</p>
+               <a href="#!" class="preview_link">Watch preview</a> 
+            </div>
+         </div>
+                
+         <div class="brands_logo">
+            <ul class="brands_list">
+               <li class="brands_item">
+                  <img src="./img/svg/Frame.svg" alt="">
+               </li>
+               <li class="brands_item">
+                  <img src="./img/svg/Frame1.svg" alt="">
+               </li>
+               <li class="brands_item">
+                  <img src="./img/svg/Frame2.svg" alt="">
+               </li>
+               <li class="brands_item">
+                  <img src="./img/svg/Frame3.svg" alt="">
+               </li>
+               <li class="brands_item">
+                  <img src="./img/svg/Frame4.svg" alt="">
+               </li>
+               <li class="brands_item">
+                  <img src="./img/svg/Frame5.svg" alt="">
+               </li>
+            </ul>
+         </div>
+               
+         <div class="tabs">
+            <h3 class="tabheader">Your choice</h3>
+            <p class="tabheader_desc">There are many reasons to get down and start to get depressed about your situation. </p>
+            <div class="tabcontainer">  
+               <div class="tabcontent">Article nor prepare chicken you him now. Shy merits say advice ten before lovers innate add.</div>
+               <div class="tabcontent">Effect if in up no depend seemed. Ecstatic elegance gay but disposed. We me rent been part what.</div>
+               <div class="tabcontent">We me rent been part what. An concluded sportsman offending so provision mr education.</div>
+               <div class="tabcontent">Shy merits say advice ten before lovers innate add. She cordially behaviour can attempted estimable.</div>
+               <div class="tabcontent">Improve ashamed married expense bed her comfort pursuit mrs. Four time took ye your as fail lady.</div>
+               <div class="tabcontent">Had denoting properly jointure you occasion directly raillery. In said to of poor full be post face snug.</div>
+               <div class="tabheader_items">
+                  <div class="tabheader_item
+                  tabheader_item_active">Ecstatic elegance</div>
+                  <div class="tabheader_item">Folly words widow</div>
+                  <div class="tabheader_item">Possible procured trifling</div>
+                  <div class="tabheader_item">Open game</div>
+                  <div class="tabheader_item">Endeavor</div>
+                  <div class="tabheader_item">Comfort pursuit</div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </main>
+   <script src="/js/script.js"></script>
+</body>
+</html>
